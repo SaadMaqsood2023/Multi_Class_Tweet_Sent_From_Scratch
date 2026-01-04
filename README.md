@@ -1,4 +1,4 @@
-# DeepSent-LSTM  
+# TweetSent-LSTM  
 **From-Scratch Multi-Class Sentiment Analysis on Social Media Text**
 
 ---
